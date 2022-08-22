@@ -1,9 +1,9 @@
 # Rode Landing Page Clone
 
-##### Published Url:-[Rode Home Page](https://heartfelt-pie-74d96b.netlify.app/)
+##### Published Url:-[Rode Home Page](https://gentle-wisp-9b1432.netlify.app/)
 
 
-<img src="https://github.com/sirugudipraveen3637/ProductDesignLandingPage_15/blob/main/15.png" height="60%" width="75%"/>
+<img src="https://github.com/sirugudipraveen3637/rodeclone/blob/main/rode.png" height="50%" width="100%"/>
 
 
 ### Knowledge Gained:-
